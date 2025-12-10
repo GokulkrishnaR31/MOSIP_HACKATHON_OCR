@@ -1,0 +1,208 @@
+{
+  "id": "27c87cb8-0749-4f28-a2fb-bc2deea6e8ee",
+  "source_file": "G:\\Hackathon-OCR\\backend\\uploads\\1764081419934-invoice-template-us-neat-750px.png",
+  "quality": {
+    "contrast": 0.172,
+    "brightness": 0.959
+  },
+  "quality_bin": {
+    "contrast": 0.492,
+    "brightness": 0.458
+  },
+  "crop": null,
+  "allResults": [
+    {
+      "source": "full_bin",
+      "results": [
+        {
+          "psm": 6,
+          "text": "fl) Ds!\nmm BE\nJohn oh ~ BE\n2 3/mu Save mn\nty, Vg, yee ne\n_______________________________________________________________________________\nae BE OEE OB een",
+          "conf": 26,
+          "score": 23.9375,
+          "raw": {
+            "text": "fl) Ds!\nmm BE\nJohn oh ~ BE\n2 3/mu Save mn\nty, Vg, yee ne\n_______________________________________________________________________________\nae BE OEE OB een\n",
+            "hocr": null,
+            "tsv": null,
+            "box": null,
+            "unlv": null,
+            "osd": null,
+            "pdf": null,
+            "imageColor": null,
+            "imageGrey": null,
+            "imageBinary": null,
+            "confidence": 26,
+            "blocks": null,
+            "layoutBlocks": null,
+            "psm": "SINGLE_BLOCK",
+            "oem": "LSTM_ONLY",
+            "version": "5.1.0-284-g9c08",
+            "debug": null,
+            "rotateRadians": 0
+          }
+        },
+        {
+          "psm": 3,
+          "text": "fl) Ds!\nmm BE\nJohn oh ~ BE\n2 3/mu Save mn\nty, Vg, yee ne\n_______________________________________________________________________________\nae BE OEE OB een",
+          "conf": 26,
+          "score": 23.9375,
+          "raw": {
+            "text": "fl) Ds!\nmm BE\nJohn oh ~ BE\n2 3/mu Save mn\nty, Vg, yee ne\n_______________________________________________________________________________\nae BE OEE OB een\n",
+            "hocr": null,
+            "tsv": null,
+            "box": null,
+            "unlv": null,
+            "osd": null,
+            "pdf": null,
+            "imageColor": null,
+            "imageGrey": null,
+            "imageBinary": null,
+            "confidence": 26,
+            "blocks": null,
+            "layoutBlocks": null,
+            "psm": "SINGLE_BLOCK",
+            "oem": "LSTM_ONLY",
+            "version": "5.1.0-284-g9c08",
+            "debug": null,
+            "rotateRadians": 0
+          }
+        },
+        {
+          "psm": 11,
+          "text": "fl) Ds!\nmm BE\nJohn oh ~ BE\n2 3/mu Save mn\nty, Vg, yee ne\n_______________________________________________________________________________\nae BE OEE OB een",
+          "conf": 26,
+          "score": 23.9375,
+          "raw": {
+            "text": "fl) Ds!\nmm BE\nJohn oh ~ BE\n2 3/mu Save mn\nty, Vg, yee ne\n_______________________________________________________________________________\nae BE OEE OB een\n",
+            "hocr": null,
+            "tsv": null,
+            "box": null,
+            "unlv": null,
+            "osd": null,
+            "pdf": null,
+            "imageColor": null,
+            "imageGrey": null,
+            "imageBinary": null,
+            "confidence": 26,
+            "blocks": null,
+            "layoutBlocks": null,
+            "psm": "SINGLE_BLOCK",
+            "oem": "LSTM_ONLY",
+            "version": "5.1.0-284-g9c08",
+            "debug": null,
+            "rotateRadians": 0
+          }
+        }
+      ]
+    },
+    {
+      "source": "full_gray",
+      "results": [
+        {
+          "psm": 6,
+          "text": "East Repair Inc. oa\n1912 Harvest Lane\nNew York, NY 12210\nBILLTO SHIPTO INVOICE # US-001\nJohn Smith John Smith INVOICE DATE 11/02/2019\n2 Court Square 3787 Pineview Drive PO.#\nNew York, NY 12210 Cambridge, MA 12210 AU 2312/2019\nDUE DATE 26/02/2019\nary DESCRIPTION UNIT PRICE AMOUNT\n1 Front and rear brake cables 100.00 100.00\n2 New set of pedal arms 15.00 30.00\n3 Labor 3hrs 5.00 15.00\nSubtotal 145.00\nSales Tax 6.25% 9.06\nTOTAL $154.06\nTERMS & CONDITIONS\n¢ [] / Payment is due within 15 days\ngoeu Please make checks payable to: East Repair Inc.",
+          "conf": 90,
+          "score": 83.36249999999998,
+          "raw": {
+            "text": "East Repair Inc. oa\n1912 Harvest Lane\nNew York, NY 12210\nBILLTO SHIPTO INVOICE # US-001\nJohn Smith John Smith INVOICE DATE 11/02/2019\n2 Court Square 3787 Pineview Drive PO.#\nNew York, NY 12210 Cambridge, MA 12210 AU 2312/2019\nDUE DATE 26/02/2019\nary DESCRIPTION UNIT PRICE AMOUNT\n1 Front and rear brake cables 100.00 100.00\n2 New set of pedal arms 15.00 30.00\n3 Labor 3hrs 5.00 15.00\nSubtotal 145.00\nSales Tax 6.25% 9.06\nTOTAL $154.06\nTERMS & CONDITIONS\n¢ [] / Payment is due within 15 days\ngoeu Please make checks payable to: East Repair Inc.\n",
+            "hocr": null,
+            "tsv": null,
+            "box": null,
+            "unlv": null,
+            "osd": null,
+            "pdf": null,
+            "imageColor": null,
+            "imageGrey": null,
+            "imageBinary": null,
+            "confidence": 90,
+            "blocks": null,
+            "layoutBlocks": null,
+            "psm": "SINGLE_BLOCK",
+            "oem": "LSTM_ONLY",
+            "version": "5.1.0-284-g9c08",
+            "debug": null,
+            "rotateRadians": 0
+          }
+        },
+        {
+          "psm": 3,
+          "text": "East Repair Inc. oa\n1912 Harvest Lane\nNew York, NY 12210\nBILLTO SHIPTO INVOICE # US-001\nJohn Smith John Smith INVOICE DATE 11/02/2019\n2 Court Square 3787 Pineview Drive PO.#\nNew York, NY 12210 Cambridge, MA 12210 AU 2312/2019\nDUE DATE 26/02/2019\nary DESCRIPTION UNIT PRICE AMOUNT\n1 Front and rear brake cables 100.00 100.00\n2 New set of pedal arms 15.00 30.00\n3 Labor 3hrs 5.00 15.00\nSubtotal 145.00\nSales Tax 6.25% 9.06\nTOTAL $154.06\nTERMS & CONDITIONS\n¢ [] / Payment is due within 15 days\ngoeu Please make checks payable to: East Repair Inc.",
+          "conf": 90,
+          "score": 83.36249999999998,
+          "raw": {
+            "text": "East Repair Inc. oa\n1912 Harvest Lane\nNew York, NY 12210\nBILLTO SHIPTO INVOICE # US-001\nJohn Smith John Smith INVOICE DATE 11/02/2019\n2 Court Square 3787 Pineview Drive PO.#\nNew York, NY 12210 Cambridge, MA 12210 AU 2312/2019\nDUE DATE 26/02/2019\nary DESCRIPTION UNIT PRICE AMOUNT\n1 Front and rear brake cables 100.00 100.00\n2 New set of pedal arms 15.00 30.00\n3 Labor 3hrs 5.00 15.00\nSubtotal 145.00\nSales Tax 6.25% 9.06\nTOTAL $154.06\nTERMS & CONDITIONS\n¢ [] / Payment is due within 15 days\ngoeu Please make checks payable to: East Repair Inc.\n",
+            "hocr": null,
+            "tsv": null,
+            "box": null,
+            "unlv": null,
+            "osd": null,
+            "pdf": null,
+            "imageColor": null,
+            "imageGrey": null,
+            "imageBinary": null,
+            "confidence": 90,
+            "blocks": null,
+            "layoutBlocks": null,
+            "psm": "SINGLE_BLOCK",
+            "oem": "LSTM_ONLY",
+            "version": "5.1.0-284-g9c08",
+            "debug": null,
+            "rotateRadians": 0
+          }
+        },
+        {
+          "psm": 11,
+          "text": "East Repair Inc. oa\n1912 Harvest Lane\nNew York, NY 12210\nBILLTO SHIPTO INVOICE # US-001\nJohn Smith John Smith INVOICE DATE 11/02/2019\n2 Court Square 3787 Pineview Drive PO.#\nNew York, NY 12210 Cambridge, MA 12210 AU 2312/2019\nDUE DATE 26/02/2019\nary DESCRIPTION UNIT PRICE AMOUNT\n1 Front and rear brake cables 100.00 100.00\n2 New set of pedal arms 15.00 30.00\n3 Labor 3hrs 5.00 15.00\nSubtotal 145.00\nSales Tax 6.25% 9.06\nTOTAL $154.06\nTERMS & CONDITIONS\n¢ [] / Payment is due within 15 days\ngoeu Please make checks payable to: East Repair Inc.",
+          "conf": 90,
+          "score": 83.36249999999998,
+          "raw": {
+            "text": "East Repair Inc. oa\n1912 Harvest Lane\nNew York, NY 12210\nBILLTO SHIPTO INVOICE # US-001\nJohn Smith John Smith INVOICE DATE 11/02/2019\n2 Court Square 3787 Pineview Drive PO.#\nNew York, NY 12210 Cambridge, MA 12210 AU 2312/2019\nDUE DATE 26/02/2019\nary DESCRIPTION UNIT PRICE AMOUNT\n1 Front and rear brake cables 100.00 100.00\n2 New set of pedal arms 15.00 30.00\n3 Labor 3hrs 5.00 15.00\nSubtotal 145.00\nSales Tax 6.25% 9.06\nTOTAL $154.06\nTERMS & CONDITIONS\n¢ [] / Payment is due within 15 days\ngoeu Please make checks payable to: East Repair Inc.\n",
+            "hocr": null,
+            "tsv": null,
+            "box": null,
+            "unlv": null,
+            "osd": null,
+            "pdf": null,
+            "imageColor": null,
+            "imageGrey": null,
+            "imageBinary": null,
+            "confidence": 90,
+            "blocks": null,
+            "layoutBlocks": null,
+            "psm": "SINGLE_BLOCK",
+            "oem": "LSTM_ONLY",
+            "version": "5.1.0-284-g9c08",
+            "debug": null,
+            "rotateRadians": 0
+          }
+        }
+      ]
+    }
+  ],
+  "best": {
+    "psm": 6,
+    "text": "East Repair Inc. oa\n1912 Harvest Lane\nNew York, NY 12210\nBILLTO SHIPTO INVOICE # US-001\nJohn Smith John Smith INVOICE DATE 11/02/2019\n2 Court Square 3787 Pineview Drive PO.#\nNew York, NY 12210 Cambridge, MA 12210 AU 2312/2019\nDUE DATE 26/02/2019\nary DESCRIPTION UNIT PRICE AMOUNT\n1 Front and rear brake cables 100.00 100.00\n2 New set of pedal arms 15.00 30.00\n3 Labor 3hrs 5.00 15.00\nSubtotal 145.00\nSales Tax 6.25% 9.06\nTOTAL $154.06\nTERMS & CONDITIONS\n¢ [] / Payment is due within 15 days\ngoeu Please make checks payable to: East Repair Inc.",
+    "conf": 90,
+    "score": 83.36249999999998,
+    "raw": {
+      "text": "East Repair Inc. oa\n1912 Harvest Lane\nNew York, NY 12210\nBILLTO SHIPTO INVOICE # US-001\nJohn Smith John Smith INVOICE DATE 11/02/2019\n2 Court Square 3787 Pineview Drive PO.#\nNew York, NY 12210 Cambridge, MA 12210 AU 2312/2019\nDUE DATE 26/02/2019\nary DESCRIPTION UNIT PRICE AMOUNT\n1 Front and rear brake cables 100.00 100.00\n2 New set of pedal arms 15.00 30.00\n3 Labor 3hrs 5.00 15.00\nSubtotal 145.00\nSales Tax 6.25% 9.06\nTOTAL $154.06\nTERMS & CONDITIONS\n¢ [] / Payment is due within 15 days\ngoeu Please make checks payable to: East Repair Inc.\n",
+      "hocr": null,
+      "tsv": null,
+      "box": null,
+      "unlv": null,
+      "osd": null,
+      "pdf": null,
+      "imageColor": null,
+      "imageGrey": null,
+      "imageBinary": null,
+      "confidence": 90,
+      "blocks": null,
+      "layoutBlocks": null,
+      "psm": "SINGLE_BLOCK",
+      "oem": "LSTM_ONLY",
+      "version": "5.1.0-284-g9c08",
+      "debug": null,
+      "rotateRadians": 0
+    },
+    "source": "full_gray"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "document_type": "driving_license",
+  "raw_text": "’ COMMERCIAL\nenngylvania DRIVER'S LICENSE\nvisitPA.com USA\n= on: 99 999 999 pups: 00\n© pos: 01/07/1973\noo SAMPLE\n¥ ANDREW JASON\nBeen be 123 MAIN STREET\nNeos Tou APT. 1\n1 =f Sn HARRISBURG, PA 17101-0000\n- S exe: 01/08/2026\n= BE\n* Nant ase a | |\nag £0: NONE\nAndes Snple oo girs p onan vovon\n",
+  "ocr_confidence": 56,
+  "fields": {
+    "full_name": "Not detected",
+    "date_of_birth": "Not found",
+    "license_number": [
+      "LICENSE\nvisitPA",
+      "visitPA"
+    ],
+    "address": "been be 123 main street neos tou apt. 1 1 =f sn harrisburg, pa 17101-0000 - s exe 01/08/2026"
+  },
+  "verified": {
+    "full_name": false,
+    "date_of_birth": false,
+    "license_number": true,
+    "address": true
+  },
+  "bounding_boxes": [],
+  "processing_id": "d063b8c5-5752-4b4f-82ae-672225c0f946",
+  "source_file": "G:\\Hackathon-OCR\\backend\\uploads\\1764251745113-id.jpeg"
+}

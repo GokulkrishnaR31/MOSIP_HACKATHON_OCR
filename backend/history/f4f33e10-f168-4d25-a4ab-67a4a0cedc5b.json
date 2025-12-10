@@ -1,0 +1,19 @@
+{
+  "document_type": "generic_document",
+  "raw_text": "7 7\n| . COMMERCIAL |\n| ennsylvania DRIVER'S LICENSE |\n| Y “ visitPA.com USA drt |\ngi ,0in99999 999 0 pies:00 Ye\n1 ~ 3 pos: 01/07/1973 |\n< 1SAMPLE |\n. 2 ANDREW JASON\nEo 6123 MAIN STREET _\nFa APT. 1 _ _\nR: HARRISBURG, PA 17101-0000 _\nNx wexe: 01/08/2026 |\nmer sa1ss: 01/07/2022 |\ni — 15 SEX: M18 EYES:BRO >\nKE : va = 16HGT:- 9-11\" _ | |\n| 1] EB) Lo = r= _\n[ne 9aEND: _ _\n\n| BS] 12RESTR: NONE _ S / |\n| Andww Sample: 5 OD: ZTE WORGANDONOR\n",
+  "ocr_confidence": 45,
+  "quality": {
+    "contrast": 0.289,
+    "brightness": 0.732,
+    "blurScore": 0.289
+  },
+  "fields": {
+    "title": {
+      "value": "7 7",
+      "confidence": 0.45
+    }
+  },
+  "bounding_boxes": [],
+  "processing_id": "f4f33e10-f168-4d25-a4ab-67a4a0cedc5b",
+  "source_file": "G:\\Hackathon-OCR\\backend\\uploads\\1764080788883-id.jpeg"
+}

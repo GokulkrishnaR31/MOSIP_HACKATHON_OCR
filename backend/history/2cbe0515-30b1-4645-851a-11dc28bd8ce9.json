@@ -1,0 +1,31 @@
+{
+  "document_type": "invoice",
+  "raw_text": "East Repair Inc. oo\n1912 Harvest Lane\nNew York, NY 12210\nBILLTO SHIPTO INVOICE # Us-001\nJohn Smith John Smith INVOICE DATE 1110212019\n2 Court Square: 3787 Pineview Drive IY\nNew York, NY 12210 Cambridge, MA 12210 - 281212019\nDUE DATE 2610212019\nay DESCRIPTION UNIT PRICE AMOUNT\n1 Frontand rear brake cables 100.00 100.00\n2 Newsetof pedal ams 15.00 30.00\n3 Labordhrs 500 15.00\nSubtotal 145.00\nSales Tax 6.25% 2.06\nTOTAL $154.06\nTERMS & CONDITIONS\nPayments due within 15 days\n1g hank YOU rer resem.\n",
+  "ocr_confidence": 80,
+  "quality": {
+    "contrast": 0.153,
+    "brightness": 0.965,
+    "blurScore": 0.153
+  },
+  "fields": {
+    "invoice_number": {
+      "value": "Us-001",
+      "confidence": 0.8
+    },
+    "date": {
+      "value": null,
+      "confidence": 0
+    },
+    "total": {
+      "value": "145.00",
+      "confidence": 0.8
+    },
+    "supplier": {
+      "value": null,
+      "confidence": 0
+    }
+  },
+  "bounding_boxes": [],
+  "processing_id": "2cbe0515-30b1-4645-851a-11dc28bd8ce9",
+  "source_file": "G:\\Hackathon-OCR\\backend\\uploads\\1764081460599-invoice-template-us-neat-750px.png"
+}

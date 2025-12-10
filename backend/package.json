@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.2",
+    "jpeg-js": "^0.4.4",
+    "jsonwebtoken": "^9.0.2",
+    "jszip": "^3.10.1",
+    "mrz": "^5.0.0",
+    "multer": "^2.0.2",
+    "pdfkit": "^0.17.2",
+    "qrcode-reader": "^1.0.4",
+    "sharp": "^0.34.5",
+    "string-similarity": "^4.0.4",
+    "tesseract.js": "^6.0.1",
+    "uuid": "^13.0.0"
+  }
+}

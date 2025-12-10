@@ -1,0 +1,208 @@
+{
+  "id": "60e794fa-4e83-4370-b7b8-402f1a6fe4e8",
+  "source_file": "G:\\Hackathon-OCR\\backend\\uploads\\1764081363299-id.jpeg",
+  "quality": {
+    "contrast": 0.279,
+    "brightness": 0.736
+  },
+  "quality_bin": {
+    "contrast": 0.396,
+    "brightness": 0.697
+  },
+  "crop": null,
+  "allResults": [
+    {
+      "source": "full_bin",
+      "results": [
+        {
+          "psm": 6,
+          "text": "ae a oR\nEi ns Al LR Al, :\ni Dw\nLEE ne A Apr ae Fy SE Aol i a\n7 oo TH ET\n7s |\nAR pra p yr, vr my\n3-20 of dr0 STIs Wi Ed AA\nFr ry EAA A A Cy i L L 50. PV AT 4 ok\nTil F | at SECT A Sayin AY Sa TEA te\nFa ca y VE gt re VS\n- . PCIE PN a . en oe eg\n. pee gn tT 2 A Ere TL :\njo, ART\nAE TI 7 7 Mp oY [Sh\nii pt EA le a\na 5 A NAA aw Ly V es\n| . : LA ih YB BE AGCT 8 Ed FE gl Fig SRA\nEg EA Wr Ply ger, A er.\nrag BH2%, AE rn EEA, Ae i\nRi I AP REL ns 3\ni fr, wll Wd SA Ea\nEe - SE RY.\nTR pe Se co",
+          "conf": 23,
+          "score": 34.137499999999996,
+          "raw": {
+            "text": "ae a oR\nEi ns Al LR Al, :\ni Dw\nLEE ne A Apr ae Fy SE Aol i a\n7 oo TH ET\n7s |\nAR pra p yr, vr my\n3-20 of dr0 STIs Wi Ed AA\nFr ry EAA A A Cy i L L 50. PV AT 4 ok\nTil F | at SECT A Sayin AY Sa TEA te\nFa ca y VE gt re VS\n- . PCIE PN a . en oe eg\n. pee gn tT 2 A Ere TL :\njo, ART\nAE TI 7 7 Mp oY [Sh\nii pt EA le a\na 5 A NAA aw Ly V es\n| . : LA ih YB BE AGCT 8 Ed FE gl Fig SRA\nEg EA Wr Ply ger, A er.\nrag BH2%, AE rn EEA, Ae i\nRi I AP REL ns 3\ni fr, wll Wd SA Ea\nEe - SE RY.\nTR pe Se co\n",
+            "hocr": null,
+            "tsv": null,
+            "box": null,
+            "unlv": null,
+            "osd": null,
+            "pdf": null,
+            "imageColor": null,
+            "imageGrey": null,
+            "imageBinary": null,
+            "confidence": 23,
+            "blocks": null,
+            "layoutBlocks": null,
+            "psm": "SINGLE_BLOCK",
+            "oem": "LSTM_ONLY",
+            "version": "5.1.0-284-g9c08",
+            "debug": null,
+            "rotateRadians": 0
+          }
+        },
+        {
+          "psm": 3,
+          "text": "ae a oR\nEi ns Al LR Al, :\ni Dw\nLEE ne A Apr ae Fy SE Aol i a\n7 oo TH ET\n7s |\nAR pra p yr, vr my\n3-20 of dr0 STIs Wi Ed AA\nFr ry EAA A A Cy i L L 50. PV AT 4 ok\nTil F | at SECT A Sayin AY Sa TEA te\nFa ca y VE gt re VS\n- . PCIE PN a . en oe eg\n. pee gn tT 2 A Ere TL :\njo, ART\nAE TI 7 7 Mp oY [Sh\nii pt EA le a\na 5 A NAA aw Ly V es\n| . : LA ih YB BE AGCT 8 Ed FE gl Fig SRA\nEg EA Wr Ply ger, A er.\nrag BH2%, AE rn EEA, Ae i\nRi I AP REL ns 3\ni fr, wll Wd SA Ea\nEe - SE RY.\nTR pe Se co",
+          "conf": 23,
+          "score": 34.137499999999996,
+          "raw": {
+            "text": "ae a oR\nEi ns Al LR Al, :\ni Dw\nLEE ne A Apr ae Fy SE Aol i a\n7 oo TH ET\n7s |\nAR pra p yr, vr my\n3-20 of dr0 STIs Wi Ed AA\nFr ry EAA A A Cy i L L 50. PV AT 4 ok\nTil F | at SECT A Sayin AY Sa TEA te\nFa ca y VE gt re VS\n- . PCIE PN a . en oe eg\n. pee gn tT 2 A Ere TL :\njo, ART\nAE TI 7 7 Mp oY [Sh\nii pt EA le a\na 5 A NAA aw Ly V es\n| . : LA ih YB BE AGCT 8 Ed FE gl Fig SRA\nEg EA Wr Ply ger, A er.\nrag BH2%, AE rn EEA, Ae i\nRi I AP REL ns 3\ni fr, wll Wd SA Ea\nEe - SE RY.\nTR pe Se co\n",
+            "hocr": null,
+            "tsv": null,
+            "box": null,
+            "unlv": null,
+            "osd": null,
+            "pdf": null,
+            "imageColor": null,
+            "imageGrey": null,
+            "imageBinary": null,
+            "confidence": 23,
+            "blocks": null,
+            "layoutBlocks": null,
+            "psm": "SINGLE_BLOCK",
+            "oem": "LSTM_ONLY",
+            "version": "5.1.0-284-g9c08",
+            "debug": null,
+            "rotateRadians": 0
+          }
+        },
+        {
+          "psm": 11,
+          "text": "ae a oR\nEi ns Al LR Al, :\ni Dw\nLEE ne A Apr ae Fy SE Aol i a\n7 oo TH ET\n7s |\nAR pra p yr, vr my\n3-20 of dr0 STIs Wi Ed AA\nFr ry EAA A A Cy i L L 50. PV AT 4 ok\nTil F | at SECT A Sayin AY Sa TEA te\nFa ca y VE gt re VS\n- . PCIE PN a . en oe eg\n. pee gn tT 2 A Ere TL :\njo, ART\nAE TI 7 7 Mp oY [Sh\nii pt EA le a\na 5 A NAA aw Ly V es\n| . : LA ih YB BE AGCT 8 Ed FE gl Fig SRA\nEg EA Wr Ply ger, A er.\nrag BH2%, AE rn EEA, Ae i\nRi I AP REL ns 3\ni fr, wll Wd SA Ea\nEe - SE RY.\nTR pe Se co",
+          "conf": 23,
+          "score": 34.137499999999996,
+          "raw": {
+            "text": "ae a oR\nEi ns Al LR Al, :\ni Dw\nLEE ne A Apr ae Fy SE Aol i a\n7 oo TH ET\n7s |\nAR pra p yr, vr my\n3-20 of dr0 STIs Wi Ed AA\nFr ry EAA A A Cy i L L 50. PV AT 4 ok\nTil F | at SECT A Sayin AY Sa TEA te\nFa ca y VE gt re VS\n- . PCIE PN a . en oe eg\n. pee gn tT 2 A Ere TL :\njo, ART\nAE TI 7 7 Mp oY [Sh\nii pt EA le a\na 5 A NAA aw Ly V es\n| . : LA ih YB BE AGCT 8 Ed FE gl Fig SRA\nEg EA Wr Ply ger, A er.\nrag BH2%, AE rn EEA, Ae i\nRi I AP REL ns 3\ni fr, wll Wd SA Ea\nEe - SE RY.\nTR pe Se co\n",
+            "hocr": null,
+            "tsv": null,
+            "box": null,
+            "unlv": null,
+            "osd": null,
+            "pdf": null,
+            "imageColor": null,
+            "imageGrey": null,
+            "imageBinary": null,
+            "confidence": 23,
+            "blocks": null,
+            "layoutBlocks": null,
+            "psm": "SINGLE_BLOCK",
+            "oem": "LSTM_ONLY",
+            "version": "5.1.0-284-g9c08",
+            "debug": null,
+            "rotateRadians": 0
+          }
+        }
+      ]
+    },
+    {
+      "source": "full_gray",
+      "results": [
+        {
+          "psm": 6,
+          "text": "| ’ COMMERCIAL |\n| enngylvania DRIVER'S LICENSE\n| WH \"/ visitPA.com USA p. |\ni Co aon: 99 999 999 ours: 00 , J |\n| ~~ 3 poe: 01/07/1973 |\n| 1 SAMPLE\n\n| a 2 ANDREW JASON |\n| ——- 8 wr STREET |\n| 4 HARRISBURG, PA 17101-0000 |\n| RR ®s% sexe: 01/08/2026 |\n7 ~~ aatss: 01/07/2022 |\n| gE — 15SEX: M 18EYES:BRO |\n=. = | Ena |\nk A < TET 8\n| [Toe li 9a z { |\n| Ba ) PS a 12RESTR: NONE ~ % |\n| Rnd Sample. ogg orm vonor",
+          "conf": 58,
+          "score": 55.89999999999999,
+          "raw": {
+            "text": "| ’ COMMERCIAL |\n| enngylvania DRIVER'S LICENSE\n| WH \"/ visitPA.com USA p. |\ni Co aon: 99 999 999 ours: 00 , J |\n| ~~ 3 poe: 01/07/1973 |\n| 1 SAMPLE\n\n| a 2 ANDREW JASON |\n| ——- 8 wr STREET |\n| 4 HARRISBURG, PA 17101-0000 |\n| RR ®s% sexe: 01/08/2026 |\n7 ~~ aatss: 01/07/2022 |\n| gE — 15SEX: M 18EYES:BRO |\n=. = | Ena |\nk A < TET 8\n| [Toe li 9a z { |\n| Ba ) PS a 12RESTR: NONE ~ % |\n| Rnd Sample. ogg orm vonor\n",
+            "hocr": null,
+            "tsv": null,
+            "box": null,
+            "unlv": null,
+            "osd": null,
+            "pdf": null,
+            "imageColor": null,
+            "imageGrey": null,
+            "imageBinary": null,
+            "confidence": 58,
+            "blocks": null,
+            "layoutBlocks": null,
+            "psm": "SINGLE_BLOCK",
+            "oem": "LSTM_ONLY",
+            "version": "5.1.0-284-g9c08",
+            "debug": null,
+            "rotateRadians": 0
+          }
+        },
+        {
+          "psm": 3,
+          "text": "| ’ COMMERCIAL |\n| enngylvania DRIVER'S LICENSE\n| WH \"/ visitPA.com USA p. |\ni Co aon: 99 999 999 ours: 00 , J |\n| ~~ 3 poe: 01/07/1973 |\n| 1 SAMPLE\n\n| a 2 ANDREW JASON |\n| ——- 8 wr STREET |\n| 4 HARRISBURG, PA 17101-0000 |\n| RR ®s% sexe: 01/08/2026 |\n7 ~~ aatss: 01/07/2022 |\n| gE — 15SEX: M 18EYES:BRO |\n=. = | Ena |\nk A < TET 8\n| [Toe li 9a z { |\n| Ba ) PS a 12RESTR: NONE ~ % |\n| Rnd Sample. ogg orm vonor",
+          "conf": 58,
+          "score": 55.89999999999999,
+          "raw": {
+            "text": "| ’ COMMERCIAL |\n| enngylvania DRIVER'S LICENSE\n| WH \"/ visitPA.com USA p. |\ni Co aon: 99 999 999 ours: 00 , J |\n| ~~ 3 poe: 01/07/1973 |\n| 1 SAMPLE\n\n| a 2 ANDREW JASON |\n| ——- 8 wr STREET |\n| 4 HARRISBURG, PA 17101-0000 |\n| RR ®s% sexe: 01/08/2026 |\n7 ~~ aatss: 01/07/2022 |\n| gE — 15SEX: M 18EYES:BRO |\n=. = | Ena |\nk A < TET 8\n| [Toe li 9a z { |\n| Ba ) PS a 12RESTR: NONE ~ % |\n| Rnd Sample. ogg orm vonor\n",
+            "hocr": null,
+            "tsv": null,
+            "box": null,
+            "unlv": null,
+            "osd": null,
+            "pdf": null,
+            "imageColor": null,
+            "imageGrey": null,
+            "imageBinary": null,
+            "confidence": 58,
+            "blocks": null,
+            "layoutBlocks": null,
+            "psm": "SINGLE_BLOCK",
+            "oem": "LSTM_ONLY",
+            "version": "5.1.0-284-g9c08",
+            "debug": null,
+            "rotateRadians": 0
+          }
+        },
+        {
+          "psm": 11,
+          "text": "| ’ COMMERCIAL |\n| enngylvania DRIVER'S LICENSE\n| WH \"/ visitPA.com USA p. |\ni Co aon: 99 999 999 ours: 00 , J |\n| ~~ 3 poe: 01/07/1973 |\n| 1 SAMPLE\n\n| a 2 ANDREW JASON |\n| ——- 8 wr STREET |\n| 4 HARRISBURG, PA 17101-0000 |\n| RR ®s% sexe: 01/08/2026 |\n7 ~~ aatss: 01/07/2022 |\n| gE — 15SEX: M 18EYES:BRO |\n=. = | Ena |\nk A < TET 8\n| [Toe li 9a z { |\n| Ba ) PS a 12RESTR: NONE ~ % |\n| Rnd Sample. ogg orm vonor",
+          "conf": 58,
+          "score": 55.89999999999999,
+          "raw": {
+            "text": "| ’ COMMERCIAL |\n| enngylvania DRIVER'S LICENSE\n| WH \"/ visitPA.com USA p. |\ni Co aon: 99 999 999 ours: 00 , J |\n| ~~ 3 poe: 01/07/1973 |\n| 1 SAMPLE\n\n| a 2 ANDREW JASON |\n| ——- 8 wr STREET |\n| 4 HARRISBURG, PA 17101-0000 |\n| RR ®s% sexe: 01/08/2026 |\n7 ~~ aatss: 01/07/2022 |\n| gE — 15SEX: M 18EYES:BRO |\n=. = | Ena |\nk A < TET 8\n| [Toe li 9a z { |\n| Ba ) PS a 12RESTR: NONE ~ % |\n| Rnd Sample. ogg orm vonor\n",
+            "hocr": null,
+            "tsv": null,
+            "box": null,
+            "unlv": null,
+            "osd": null,
+            "pdf": null,
+            "imageColor": null,
+            "imageGrey": null,
+            "imageBinary": null,
+            "confidence": 58,
+            "blocks": null,
+            "layoutBlocks": null,
+            "psm": "SINGLE_BLOCK",
+            "oem": "LSTM_ONLY",
+            "version": "5.1.0-284-g9c08",
+            "debug": null,
+            "rotateRadians": 0
+          }
+        }
+      ]
+    }
+  ],
+  "best": {
+    "psm": 6,
+    "text": "| ’ COMMERCIAL |\n| enngylvania DRIVER'S LICENSE\n| WH \"/ visitPA.com USA p. |\ni Co aon: 99 999 999 ours: 00 , J |\n| ~~ 3 poe: 01/07/1973 |\n| 1 SAMPLE\n\n| a 2 ANDREW JASON |\n| ——- 8 wr STREET |\n| 4 HARRISBURG, PA 17101-0000 |\n| RR ®s% sexe: 01/08/2026 |\n7 ~~ aatss: 01/07/2022 |\n| gE — 15SEX: M 18EYES:BRO |\n=. = | Ena |\nk A < TET 8\n| [Toe li 9a z { |\n| Ba ) PS a 12RESTR: NONE ~ % |\n| Rnd Sample. ogg orm vonor",
+    "conf": 58,
+    "score": 55.89999999999999,
+    "raw": {
+      "text": "| ’ COMMERCIAL |\n| enngylvania DRIVER'S LICENSE\n| WH \"/ visitPA.com USA p. |\ni Co aon: 99 999 999 ours: 00 , J |\n| ~~ 3 poe: 01/07/1973 |\n| 1 SAMPLE\n\n| a 2 ANDREW JASON |\n| ——- 8 wr STREET |\n| 4 HARRISBURG, PA 17101-0000 |\n| RR ®s% sexe: 01/08/2026 |\n7 ~~ aatss: 01/07/2022 |\n| gE — 15SEX: M 18EYES:BRO |\n=. = | Ena |\nk A < TET 8\n| [Toe li 9a z { |\n| Ba ) PS a 12RESTR: NONE ~ % |\n| Rnd Sample. ogg orm vonor\n",
+      "hocr": null,
+      "tsv": null,
+      "box": null,
+      "unlv": null,
+      "osd": null,
+      "pdf": null,
+      "imageColor": null,
+      "imageGrey": null,
+      "imageBinary": null,
+      "confidence": 58,
+      "blocks": null,
+      "layoutBlocks": null,
+      "psm": "SINGLE_BLOCK",
+      "oem": "LSTM_ONLY",
+      "version": "5.1.0-284-g9c08",
+      "debug": null,
+      "rotateRadians": 0
+    },
+    "source": "full_gray"
+  }
+}
