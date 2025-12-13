@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            background: #f0f2f5; 
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            height: 100vh; 
+            margin: 0; 
+        }
+
+        .id-card {
+            width: 400px;
+            height: 250px;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+            overflow: hidden;
+            display: flex;
+            position: relative;
+            border: 1px solid #ddd;
+        }
+
+        /* Blue sidebar decoration */
+        .sidebar {
+            width: 20px;
+            height: 100%;
+            background: #0056b3;
+        }
+
+        .content {
+            padding: 20px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+        }
+
+        .company-name {
+            font-size: 14px;
+            font-weight: bold;
+            color: #0056b3;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .main-body {
+            display: flex;
+            gap: 20px;
+        }
+
+        .photo-box {
+            width: 100px;
+            height: 100px;
+            background: #e9ecef;
+            border: 2px solid #dee2e6;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: #adb5bd;
+            font-size: 10px;
+            text-align: center;
+        }
+
+        .details {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .field {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .label {
+            font-size: 10px;
+            color: #888;
+            text-transform: uppercase;
+            font-weight: 600;
+        }
+
+        .value {
+            font-size: 14px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .footer {
+            margin-top: auto;
+            font-size: 10px;
+            color: #999;
+            text-align: right;
+        }
+        
+        /* Barcode Simulation */
+        .barcode {
+            height: 25px;
+            background: repeating-linear-gradient(
+                90deg,
+                #333 0px,
+                #333 2px,
+                transparent 2px,
+                transparent 4px
+            );
+            width: 100%;
+            margin-top: 10px;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="id-card">
+        <div class="sidebar"></div>
+        <div class="content">
+            <div class="header">
+                <span class="company-name">TechCorp Systems</span>
+            </div>
+
+            <div class="main-body">
+                <div class="photo-box">
+                    USER<br>PHOTO
+                </div>
+
+                <div class="details">
+                    <div class="field">
+                        <span class="label">Name</span>
+                        <span class="value">Gokul Krishna R</span>
+                    </div>
+
+                    <div class="field">
+                        <span class="label">Employee ID</span>
+                        <span class="value">TC-90210</span>
+                    </div>
+
+                    <div class="field">
+                        <span class="label">Designation</span>
+                        <span class="value">Senior Developer</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="footer">
+                <div class="barcode"></div>
+                Valid Until: DEC 2026
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
